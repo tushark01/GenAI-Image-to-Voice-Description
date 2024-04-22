@@ -35,7 +35,7 @@ This project utilizes Generative AI models to convert images into descriptive st
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/<YOUR_USERNAME>/GenAI-Image-to-Voice-Description.git
+    git clone https://github.com/tushark01/GenAI-Image-to-Voice-Description.git
     ```
 
 2. Install dependencies:
